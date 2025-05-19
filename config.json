@@ -1,0 +1,14 @@
+{
+    "qp_value": 26,
+    "video_codec": "hevc_nvenc",
+    "audio_codec": "copy",
+    "preset_val": "slow",
+    "op_extension": "mkv",
+    "input_folder": "input",
+    "output_folder": "output",
+    "archive_folder": "archive",
+    "log_file": "compression_daemon.log",
+    "csv_filename_pattern": "compression_report_%Y%m%d_%H%M%S.csv",
+    "video_extensions": [".mp4", ".mkv", ".avi", ".mov", ".flv"],
+    "retry_wait_seconds": 30
+}
